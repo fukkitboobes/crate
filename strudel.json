@@ -1,31 +1,31 @@
 {
   "_base": "https://raw.githubusercontent.com/fukkitboobes/samples/main/",
-  "clap": [
-    "clap/C1.wav",
-    "clap/C2.wav"
+  "crate_cp": [
+    "crate_cp/C1.wav",
+    "crate_cp/C2.wav"
   ],
-  "snare": [
-    "snare/S1.wav"
+  "crate_sd": [
+    "crate_sd/S1.wav"
   ],
-  "808": [
-    "808/B1.wav",
-    "808/B2.wav",
-    "808/B3.wav"
+  "crate_db": [
+    "crate_db/B1.wav",
+    "crate_db/B2.wav",
+    "crate_db/B3.wav"
   ],
-  "fx": [
-    "fx/F1.wav",
-    "fx/F2.wav",
-    "fx/F3.wav"
+  "crate_fx": [
+    "crate_fx/F1.wav",
+    "crate_fx/F2.wav",
+    "crate_fx/F3.wav"
   ],
-  "hat": [
-    "hat/H1.wav",
-    "hat/H2.wav"
+  "crate_hh": [
+    "crate_hh/H1.wav",
+    "crate_hh/H2.wav"
   ],
-  "texture": [
-    "texture/T1.wav"
+  "crate_tb": [
+    "crate_tb/T1.wav"
   ],
-  "perc": [
-    "perc/P1.wav",
-    "perc/P2.wav"
+  "crate_perc": [
+    "crate_perc/P1.wav",
+    "crate_perc/P2.wav"
   ]
 }
