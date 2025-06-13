@@ -8,9 +8,9 @@
     "crate_sd/S1.wav"
   ],
   "crate_bd": [
-    "crate_db/b1.wav",
-    "crate_db/B2.wav",
-    "crate_db/B3.wav"
+    "crate_bd/b1.wav",
+    "crate_bd/B2.wav",
+    "crate_bd/B3.wav"
   ],
   "crate_fx": [
     "crate_fx/F1.wav",
